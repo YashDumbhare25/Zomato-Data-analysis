@@ -1,4 +1,4 @@
-# Zomato Project Dashboard
+# Zomato Data Analysis 
 
 This project is a comprehensive Power BI dashboard designed to visualize and analyze Zomato's sales, customer demographics, user engagement, and city-wise performance. It provides actionable insights into the platform's operational metrics and user behavior patterns.
 
@@ -75,4 +75,4 @@ This project is a comprehensive Power BI dashboard designed to visualize and ana
 ## 👤 Developed By
 
 **Yash Dumbhare**
-# Zomato-Data-analysis
+
